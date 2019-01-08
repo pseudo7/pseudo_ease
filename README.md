@@ -1,3 +1,3 @@
 # Pseudo Ease
 
-## Helpful Scripts to ease your coding.
+## Helpful Scripts to ease your coding. :sunglasses:
