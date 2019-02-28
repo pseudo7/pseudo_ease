@@ -38,6 +38,8 @@ public class StreamManager : MonoBehaviour
             return;
         }
 
+        fitter.aspectMode = AspectRatioFitter.AspectMode.EnvelopeParent;
+
         webCam.Play();
         background.texture = webCam;
     }
