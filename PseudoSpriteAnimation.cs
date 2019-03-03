@@ -1,7 +1,7 @@
 using System.Collections;
 using UnityEngine;
 
-public class PseudoBlast : MonoBehaviour
+public class PseudoSpriteAnimation : MonoBehaviour
 {
     public Sprite[] blastSprites;
     public float playSpeed = 3;
