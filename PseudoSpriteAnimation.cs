@@ -1,6 +1,7 @@
 using System.Collections;
 using UnityEngine;
 
+[RequireComponent(typeof(SpriteRenderer))]
 public class PseudoSpriteAnimation : MonoBehaviour
 {
     public Sprite[] blastSprites;
